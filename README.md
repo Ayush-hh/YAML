@@ -65,7 +65,7 @@ Lists the project dependencies:
 ## Example Output
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/YAML-/blob/main/Screenshot1.png">
+  <img src="https://github.com/Ayush-hh/YAML/blob/main/COA.png">
 </div>
 
 ## Features
